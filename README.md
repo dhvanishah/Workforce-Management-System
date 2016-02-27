@@ -1,6 +1,14 @@
 
 
-# Workforce Management System Backend Node Server
+# Workforce Management System 
+
+Developed a workforce management system in order to manage the services of a security company. Project contains modules like Admin, Guard, Building and Incidents and Alerts.
+-To demonstrate client-server model with message-orriented-middleware (MOM) capabilities and RESTful services.
+Technologies:
+Frontend: AngularJS, Bootstrap, HTML5, CSS.
+Backend: NodeJS
+MOM: RabbitMQ
+Database: MySQL
 
 
 
